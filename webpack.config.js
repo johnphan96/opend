@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 require("dotenv").config();
 const path = require("path");
 const webpack = require("webpack");
